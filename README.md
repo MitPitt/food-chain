@@ -11,7 +11,7 @@
 Для сборки в исполняемый файл с помощью Pyinstaller:
 
 - `pip install pyinstaller`
-- `pyinstaller .\Application.spec`
+- `pyinstaller .\Application.spec` (в файле значение pathex надо заменить на путь к папке, куда вы склонировали репо) 
 
 Скриншоты:
 
