@@ -6,6 +6,8 @@
 - `pip install matplotlib==3.2.2`
 - `pip install scipy`
 
+Если хотите, чтобы работало на Windows 7, следует установить Python 3.8.8, т.к. начиная с Python 3.9 поддержки этой ОС нет.
+
 Для сборки в исполняемый файл с помощью Pyinstaller:
 
 - `pip install pyinstaller`
